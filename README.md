@@ -1,5 +1,5 @@
 # My YouTube History Analysis
-![Youtube_Logo](Youtube_logo1.png)
+![Youtube_Logo](Youtube_logo1.jpeg)
 ## Overview
 
 This project provides a detailed analysis of my YouTube watch history, uncovering insights into viewing habits, favorite channels, and types of content consumed over the past two years. The data was extracted from an HTML file obtained via **Google Takeout**, allowing for a comprehensive examination of viewing patterns.
